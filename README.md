@@ -1,8 +1,7 @@
-In this project, I reviewed World Happiness Reports from 2015 through 2024, uncovoering meaningful relationships within countries and regions using 6 key variables.
+In this project, I reviewed World Happiness Reports from 2015 through 2024, uncovering meaningful relationships within countries and regions using 6 key variables.
 
 ## Objective
-Uncover more information about sales patterns. Perform an initial data and exploratory analysis to derive insights and suggest strategies for better segmentation based on
-the provided criteria. Present findings in an Excel Report.
+My analysis aims to explore the trends and shifts in global happiness over the past decade, identifying the key factors driving happiness. As well as looking at using GDP with Purchasing Power Parity (PPP) over GDP per capita, as a view to equalize not just the scores, but trends with countries that normally have lower GDP. This gives these countries more equality towards happiness since this is a subjective report based on citizen's views and interpretations.
 
 ## Key Questions
 1. Which countries are the Happiest? Is there a trend?
@@ -11,7 +10,7 @@ the provided criteria. Present findings in an Excel Report.
 
 3. Which regions are the Happiest/Unhappiest?
 
-4. What changes have occured over time by Country vs Region?
+4. What changes have occurred over time by Country vs Region?
 
 5. Which factors influence the happiness score the most/least?
 
@@ -20,12 +19,12 @@ the provided criteria. Present findings in an Excel Report.
 ## What did I do?
 ● Data Collection and Preparation: Using Python, I cleaned and wrangled the raw data, transforming it into structured data frames conducive to analysis.
 
-● Exploratory Data Analysis: With a focus on understanding customer behavior, I used various statistical techniques and visualization tools to identify patterns and correlations across different customer segments.
+● Exploratory Data Analysis: With a focus on understanding the World Happiness Reports and factors used to contribute to the total Happiness score. I used various statistical techniques and visualization tools to identify patterns and correlations across different countries and regions.
 
-● Product and Department Performance Evaluation: Through rigorous analysis, I evaluated the performance of Instacart's products and departments, pinpointing strengths and areas for improvement.
+● 6 Key Factors Evaluation: Through rigorous analysis, I evaluated the various key factors used towards Happiness Score as well as delving into looking at an equalized approach using GDP with Power Purchasing Parity vs GDP per capita.
 
-## Recommendations & Insights
-With insights from the analysis, I created recommendations to enhance Instacart's operations and customer experience.
+## Conclusions & Recommendations
+With insights from the analysis, I created conclusions to the key questions and suggested recommendations to enhance future World Happiness Reports.
 
 ## Technologies & Skills used
 ● Python (Pandas, NumPy): for data cleaning, wrangling, and analysis
