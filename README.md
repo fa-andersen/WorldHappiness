@@ -3,6 +3,9 @@ In this project, I reviewed World Happiness Reports from 2015 through 2024, unco
 ## Objective
 My analysis aims to explore the trends and shifts in global happiness over the past decade, identifying the key factors driving happiness. As well as looking at using GDP with Purchasing Power Parity (PPP) over GDP per capita, as a view to equalize not just the scores, but trends with countries that normally have lower GDP. This gives these countries more equality towards happiness since this is a subjective report based on citizen's views and interpretations.
 
+## Final Visualization in Tableau
+[World Happiness Report Story on Tableau](https://public.tableau.com/shared/WNJPCJ6G6?:display_count=n&:origin=viz_share_link)
+
 ## Key Questions
 1. Which countries are the Happiest? Is there a trend?
 
@@ -35,6 +38,3 @@ With insights from the analysis, I created conclusions to the key questions and 
 
 ## Data
 The World Happiness Report data came in two sets, 2015 through 2023 and 2024 via Kaggle.
-
-## Final Visualization in Tableau
-[World Happiness Report Story on Tableau](https://public.tableau.com/shared/WNJPCJ6G6?:display_count=n&:origin=viz_share_link)
